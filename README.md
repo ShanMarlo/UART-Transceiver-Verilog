@@ -70,4 +70,4 @@ The following implementation stages were completed:
 B.Tech Electronics and Communication Engineering  
 SRM Institute of Science and Technology
 
-GitHub: [Kaileesh](https://github.com/ShanMarlo)
+GitHub: [ShanMarlo](https://github.com/ShanMarlo)
